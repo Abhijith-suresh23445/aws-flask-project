@@ -28,7 +28,7 @@ This project showcases a Flask application deployed on **two EC2 instances** beh
 
 ## 📊 Project Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/aws_flask_alb_architecture.png)
 
 ---
 
